@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @87a
-- 👀 I’m interested in C++,C,JAVA
-- 🌱 I’m currently learning C
+- 👀 I’m interested in C++,C,JAVA,python
+- 🌱 I’m currently learning python
 - 📫 How to reach me :QQ:1171929972 TWITTER:@Q873264077
 
 <!---
